@@ -1,2 +1,8 @@
 kkk
 k2
+<<<<<<< Updated upstream
+xiugai
+xiugai2
+=======
+xiugai
+>>>>>>> Stashed changes
